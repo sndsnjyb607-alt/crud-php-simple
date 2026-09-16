@@ -37,3 +37,4 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC");
 	</table>
 </body>
 </html>
+<!-- Updated by Partner -->
